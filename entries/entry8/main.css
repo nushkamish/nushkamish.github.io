@@ -11,6 +11,10 @@ section {
   height:  100vh;
 }
 
+.link {
+  text-decoration:none
+}
+
 .button {
   padding: 20px 50px;
   border-radius: 30px;
